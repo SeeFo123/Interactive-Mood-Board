@@ -36,7 +36,7 @@ An interactive web-based tool designed for creators and designers to visualize t
 
 ## 👤 Author
 
-** Mustafa Bushara **
+**Mustafa Bushara**
 *Frontend Developer / Creative Coder*
 
-*Follow me in facebook[Mustafa Bushara](https://www.facebook.com/Mustafa.bushara0)
+- Follow me in facebook[Mustafa Bushara](https://www.facebook.com/Mustafa.bushara0)
