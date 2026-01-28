@@ -24,7 +24,8 @@ An interactive web-based tool designed for creators and designers to visualize t
 ```text
 ├── index.html        # Main entry point
 ├── style.css         # All visual styling and layout rules
-├── script.js        # Core logic and interactivity
+├── script.js        # Core logic and interactivity.
+```
 
 ## 🚀 Future Enhancements
 
